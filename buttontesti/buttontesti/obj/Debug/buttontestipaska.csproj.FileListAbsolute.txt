@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\bin\Debug\buttontestipaska.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\bin\Debug\buttontestipaska.exe
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\bin\Debug\buttontestipaska.pdb
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.exe
+C:\Users\santeri\Desktop\vs19 koodia\buttontestipaska\buttontestipaska\obj\Debug\buttontestipaska.pdb

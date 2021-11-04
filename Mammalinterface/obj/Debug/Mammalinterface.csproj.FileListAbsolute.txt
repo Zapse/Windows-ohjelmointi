@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\bin\Debug\Mammalinterface.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\bin\Debug\Mammalinterface.exe
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\bin\Debug\Mammalinterface.pdb
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.exe
+C:\Users\santeri\Desktop\vs19 koodia\Mammalinterface\obj\Debug\Mammalinterface.pdb

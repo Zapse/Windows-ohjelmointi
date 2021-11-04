@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\bin\Debug\NumberGame.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\bin\Debug\NumberGame.exe
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\bin\Debug\NumberGame.pdb
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.exe
+C:\Users\santeri\Desktop\vs19 koodia\NumberGame\obj\Debug\NumberGame.pdb

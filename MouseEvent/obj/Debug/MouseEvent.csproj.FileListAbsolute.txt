@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Users\santeri\Desktop\vs19 koodia\MouseEvent\obj\Debug\MouseEvent.pdb

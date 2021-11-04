@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\Books\bin\Debug\Books.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\Books\bin\Debug\Books.exe
+C:\Users\santeri\Desktop\vs19 koodia\Books\bin\Debug\Books.pdb
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.exe
+C:\Users\santeri\Desktop\vs19 koodia\Books\obj\Debug\Books.pdb

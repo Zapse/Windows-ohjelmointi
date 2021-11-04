@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\bin\Debug\IfWinProj.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\bin\Debug\IfWinProj.exe
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\bin\Debug\IfWinProj.pdb
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.exe
+C:\Users\santeri\Desktop\vs19 koodia\IfWinProj\obj\Debug\IfWinProj.pdb

@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\bin\Debug\Mammal.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\bin\Debug\Mammal.exe
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\bin\Debug\Mammal.pdb
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.exe
+C:\Users\santeri\Desktop\vs19 koodia\Mammal\obj\Debug\Mammal.pdb

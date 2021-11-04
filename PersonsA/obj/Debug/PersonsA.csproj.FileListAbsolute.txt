@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\bin\Debug\PersonsA.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\bin\Debug\PersonsA.exe
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\bin\Debug\PersonsA.pdb
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.exe
+C:\Users\santeri\Desktop\vs19 koodia\PersonsA\obj\Debug\PersonsA.pdb

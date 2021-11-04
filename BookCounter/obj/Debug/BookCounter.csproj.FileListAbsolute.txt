@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\bin\Debug\BookCounter.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\bin\Debug\BookCounter.exe
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\bin\Debug\BookCounter.pdb
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.exe
+C:\Users\santeri\Desktop\vs19 koodia\BookCounter\obj\Debug\BookCounter.pdb

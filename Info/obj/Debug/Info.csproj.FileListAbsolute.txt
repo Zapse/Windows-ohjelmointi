@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\Info\bin\Debug\Info.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\Info\bin\Debug\Info.exe
+C:\Users\santeri\Desktop\vs19 koodia\Info\bin\Debug\Info.pdb
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.Form1.resources
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.exe
+C:\Users\santeri\Desktop\vs19 koodia\Info\obj\Debug\Info.pdb

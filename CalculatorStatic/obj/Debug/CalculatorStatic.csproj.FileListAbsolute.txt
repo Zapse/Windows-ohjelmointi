@@ -1,0 +1,10 @@
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\bin\Debug\CalculatorStatic.exe.config
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\bin\Debug\CalculatorStatic.exe
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\bin\Debug\CalculatorStatic.pdb
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.csprojAssemblyReference.cache
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.FormJako.resources
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.Properties.Resources.resources
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.csproj.GenerateResource.cache
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.csproj.CoreCompileInputs.cache
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.exe
+C:\Users\santeri\Desktop\vs19 koodia\CalculatorStatic\obj\Debug\CalculatorStatic.pdb
